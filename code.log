@@ -1,0 +1,96 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+
+Open this link in your browser https://vscode.dev/tunnel/helios/home/skabi9001/representation-engineering
+
+[2024-12-29 23:31:09] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 2
+[2024-12-29 23:31:09] info [russh::server] wrote id
+[2024-12-29 23:31:10] info [russh::server] read other id
+[2024-12-29 23:31:10] info [russh::server] session is running
+[2024-12-29 23:31:10] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 3
+[2024-12-29 23:31:10] info [russh::server] wrote id
+[2024-12-29 23:31:10] info [russh::server] read other id
+[2024-12-29 23:31:10] info [russh::server] session is running
+[2024-12-29 23:31:11] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 4
+[2024-12-29 23:31:11] info [russh::server] wrote id
+[2024-12-29 23:31:11] info [russh::server] read other id
+[2024-12-29 23:31:11] info [russh::server] session is running
+[2024-12-29 23:31:12] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 5
+[2024-12-29 23:31:12] info [russh::server] wrote id
+[2024-12-29 23:31:12] info [russh::server] read other id
+[2024-12-29 23:31:12] info [russh::server] session is running
+[2024-12-29 23:31:14] info [rpc.0] Checking /home/skabi9001/.vscode/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/log.txt and /home/skabi9001/.vscode/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/pid.txt for a running server...
+[2024-12-29 23:31:14] info [rpc.0] Starting server...
+[2024-12-29 23:31:14] info [rpc.0] Server started
+[2024-12-29 23:31:15] warn [rpc.0] error handling call: NoAttachedServerError(NoAttachedServerError)
+[2024-12-29 23:31:17] info [rpc.0] Disposed of connection to running server.
+[2024-12-29 23:31:24] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 6
+[2024-12-29 23:31:24] info [russh::server] wrote id
+[2024-12-29 23:31:25] info [russh::server] read other id
+[2024-12-29 23:31:25] info [russh::server] session is running
+[2024-12-29 23:31:27] info [rpc.2] Checking /home/skabi9001/.vscode/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/log.txt and /home/skabi9001/.vscode/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/pid.txt for a running server...
+[2024-12-29 23:31:27] info [rpc.2] Found running server (pid=203471)
+[2024-12-29 23:32:14] warn [rpc.2] error handling call: NoAttachedServerError(NoAttachedServerError)
+[2024-12-29 23:32:14] info [rpc.2] Disposed of connection to running server.
+[2024-12-29 23:32:20] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 7
+[2024-12-29 23:32:20] info [russh::server] wrote id
+[2024-12-29 23:32:20] info [russh::server] read other id
+[2024-12-29 23:32:20] info [russh::server] session is running
+[2024-12-29 23:32:22] info [rpc.3] Checking /home/skabi9001/.vscode/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/log.txt and /home/skabi9001/.vscode/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/pid.txt for a running server...
+[2024-12-29 23:32:22] info [rpc.3] Found running server (pid=203471)
+[2024-12-29 23:34:06] info [rpc.3] Disposed of connection to running server.
+[2024-12-29 23:34:13] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 8
+[2024-12-29 23:34:13] info [russh::server] wrote id
+[2024-12-29 23:34:14] info [russh::server] read other id
+[2024-12-29 23:34:14] info [russh::server] session is running
+[2024-12-29 23:34:16] info [rpc.4] Checking /home/skabi9001/.vscode/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/log.txt and /home/skabi9001/.vscode/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/pid.txt for a running server...
+[2024-12-29 23:34:16] info [rpc.4] Found running server (pid=203471)
+[2024-12-29 23:34:27] info [rpc.4] Disposed of connection to running server.
+[2024-12-29 23:34:32] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 9
+[2024-12-29 23:34:32] info [russh::server] wrote id
+[2024-12-29 23:34:33] info [russh::server] read other id
+[2024-12-29 23:34:33] info [russh::server] session is running
+[2024-12-29 23:34:35] info [rpc.5] Checking /home/skabi9001/.vscode/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/log.txt and /home/skabi9001/.vscode/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/pid.txt for a running server...
+[2024-12-29 23:34:35] info [rpc.5] Found running server (pid=203471)
+[2024-12-29 23:35:54] info [rpc.5] Forwarding port 58723 (public=false)
+[2024-12-29 23:35:57] info [rpc.5] Forwarding port 56081 (public=false)
+[2024-12-29 23:36:09] info [rpc.5] Forwarding port 46897 (public=false)
+[2024-12-29 23:36:12] info [rpc.5] Forwarding port 40555 (public=false)
+[2024-12-29 23:36:13] info [rpc.5] Forwarding port 39017 (public=false)
+[2024-12-29 23:36:14] info [rpc.5] Forwarding port 37967 (public=false)
+[2024-12-29 23:36:20] info [rpc.5] Forwarding port 54969 (public=false)
+[2024-12-29 23:36:21] info [rpc.5] Forwarding port 50531 (public=false)
+[2024-12-29 23:36:25] info [rpc.5] Forwarding port 50475 (public=false)
+[2024-12-29 23:36:26] info [rpc.5] Forwarding port 42073 (public=false)
+[2024-12-29 23:36:29] info [rpc.5] Forwarding port 40053 (public=false)
+[2024-12-29 23:36:30] info [rpc.5] Forwarding port 33595 (public=false)
+[2024-12-29 23:38:14] info [rpc.5] Forwarding port 45611 (public=false)
+[2024-12-30 00:29:31] info [rpc.5] Disposed of connection to running server.
+[2024-12-30 05:51:31] info [tunnels::connections::relay_tunnel_host] Opened new client on channel 10
+[2024-12-30 05:51:31] info [russh::server] wrote id
+[2024-12-30 05:51:31] info [russh::server] read other id
+[2024-12-30 05:51:31] info [russh::server] session is running
+[2024-12-30 05:51:34] info [rpc.6] Checking /home/skabi9001/.vscode/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/log.txt and /home/skabi9001/.vscode/cli/servers/Stable-fabdb6a30b49f79a7aba0f2ad9df9b399473380f/pid.txt for a running server...
+[2024-12-30 05:51:34] info [rpc.6] Starting server...
+[2024-12-30 05:51:34] info [rpc.6] Server started
+[2024-12-30 05:51:40] info [rpc.6] Forwarding port 58723 (public=false)
+[2024-12-30 05:51:40] info [rpc.6] Forwarding port 56081 (public=false)
+[2024-12-30 05:51:44] info [rpc.6] Forwarding port 46897 (public=false)
+[2024-12-30 05:51:47] info [rpc.6] Forwarding port 40555 (public=false)
+[2024-12-30 05:51:47] info [rpc.6] Forwarding port 39017 (public=false)
+[2024-12-30 05:51:50] info [rpc.6] Forwarding port 37967 (public=false)
+[2024-12-30 05:51:53] info [rpc.6] Forwarding port 54969 (public=false)
+[2024-12-30 05:51:53] info [rpc.6] Forwarding port 50531 (public=false)
+[2024-12-30 05:51:53] info [rpc.6] Forwarding port 50475 (public=false)
+[2024-12-30 07:16:53] info [rpc.6] Forwarding port 60505 (public=false)
+[2024-12-30 07:16:57] info [rpc.6] Forwarding port 57359 (public=false)
+[2024-12-30 07:17:01] info [rpc.6] Forwarding port 58253 (public=false)
+[2024-12-30 07:17:02] info [rpc.6] Forwarding port 51475 (public=false)
+[2024-12-30 07:17:03] info [rpc.6] Forwarding port 46171 (public=false)
+[2024-12-30 07:17:04] info [rpc.6] Forwarding port 37033 (public=false)
+[2024-12-30 07:57:40] info [rpc.6] Disposed of connection to running server.

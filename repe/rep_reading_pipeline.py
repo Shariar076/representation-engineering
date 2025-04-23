@@ -15,6 +15,9 @@ class RepReadingPipeline(Pipeline):
             rep_token: Union[str, int]=-1,
             hidden_layers: Union[List[int], int]=-1,
             which_hidden_states: Optional[str]=None):
+        # print("_get_hidden_states")
+        # print("hasattr(outputs, 'encoder_hidden_states'):",hasattr(outputs, 'encoder_hidden_states'), "hasattr(outputs, 'decoder_hidden_states'):",hasattr(outputs, 'decoder_hidden_states'))
+        # "hasattr(outputs, 'encoder_hidden_states'): False hasattr(outputs, 'decoder_hidden_states'): False"
         
         if hasattr(outputs, 'encoder_hidden_states') and hasattr(outputs, 'decoder_hidden_states'):
             outputs['hidden_states'] = outputs[f'{which_hidden_states}_hidden_states']
@@ -136,12 +139,17 @@ class RepReadingPipeline(Pipeline):
         if direction_finder.needs_hiddens:
             # get raw hidden states for the train inputs
             hidden_states = self._batched_string_to_hiddens(train_inputs, rep_token, hidden_layers, batch_size, which_hidden_states, **tokenizer_args)
-            
+            # hidden_states_shape = {k: v.shape for k, v in hidden_states.items()}
+            # print("hidden_states_shape:", hidden_states_shape)
             # get differences between pairs
+            # of sentences in the dataset
             relative_hidden_states = {k: np.copy(v) for k, v in hidden_states.items()}
             for layer in hidden_layers:
                 for _ in range(n_difference):
                     relative_hidden_states[layer] = relative_hidden_states[layer][::2] - relative_hidden_states[layer][1::2]
+            
+            # relative_hidden_states_shape = {k: v.shape for k, v in relative_hidden_states.items()}
+            # print("relative_hidden_states_shape:", relative_hidden_states_shape)
 
 		# get the directions
         direction_finder.directions = direction_finder.get_rep_directions(

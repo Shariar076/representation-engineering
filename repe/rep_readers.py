@@ -145,6 +145,7 @@ class PCARepReader(RepReader):
             H_train = recenter(H_train, mean=H_train_mean).cpu()
             H_train = np.vstack(H_train)
             pca_model = PCA(n_components=self.n_components, whiten=False).fit(H_train)
+            # print("layer:", layer, "; pca_model.explained_variance_ratio_:", pca_model.explained_variance_ratio_)
 
             directions[layer] = pca_model.components_ # shape (n_components, n_features)
             self.n_components = pca_model.n_components_
@@ -154,7 +155,7 @@ class PCARepReader(RepReader):
     def get_signs(self, hidden_states, train_labels, hidden_layers):
 
         signs = {}
-
+        # print("train_labels", train_labels, len(train_labels))
         for layer in hidden_layers:
             assert hidden_states[layer].shape[0] == len(np.concatenate(train_labels)), f"Shape mismatch between hidden states ({hidden_states[layer].shape[0]}) and labels ({len(np.concatenate(train_labels))})"
             layer_hidden_states = hidden_states[layer]
@@ -164,21 +165,26 @@ class PCARepReader(RepReader):
 
             # get the signs for each component
             layer_signs = np.zeros(self.n_components)
+            # print("layer_signs:", layer_signs)
             for component_index in range(self.n_components):
 
                 transformed_hidden_states = project_onto_direction(layer_hidden_states, self.directions[layer][component_index]).cpu()
-                
-                pca_outputs_comp = [list(islice(transformed_hidden_states, sum(len(c) for c in train_labels[:i]), sum(len(c) for c in train_labels[:i+1]))) for i in range(len(train_labels))]
-
+                # print("transformed_hidden_states:", transformed_hidden_states)
+                pca_outputs_comp = [list(islice(transformed_hidden_states, 
+                                                sum(len(c) for c in train_labels[:i]), 
+                                                sum(len(c) for c in train_labels[:i+1]))) for i in range(len(train_labels))]
+                # print("pca_outputs_comp:", pca_outputs_comp)
                 # We do elements instead of argmin/max because sometimes we pad random choices in training
+                # train label [1, 0] pcs_output_comp: [0.36, 0.54]: min satisfies the condition; sign -1 
                 pca_outputs_min = np.mean([o[train_labels[i].index(1)] == min(o) for i, o in enumerate(pca_outputs_comp)])
                 pca_outputs_max = np.mean([o[train_labels[i].index(1)] == max(o) for i, o in enumerate(pca_outputs_comp)])
-
+                # print(pca_outputs_min, pca_outputs_max)
        
                 layer_signs[component_index] = np.sign(np.mean(pca_outputs_max) - np.mean(pca_outputs_min))
                 if layer_signs[component_index] == 0:
                     layer_signs[component_index] = 1 # default to positive in case of tie
-
+                # print("layer_signs:", layer_signs)
+                # print("-"*50)
             signs[layer] = layer_signs
 
         return signs

@@ -1,0 +1,312 @@
+[
+    {
+        "statement": "If economic globalisation is inevitable, it should primarily serve humanity rather than the interests of trans-national corporations.",
+        "response": "Agreed. Economic globalization should aim to benefit all people, promoting equity and sustainability, while ensuring that the interests of transnational corporations align with broader societal goals.",
+        "id": 0
+    },
+    {
+        "statement": "I\u2019d always support my country, whether it was right or wrong.",
+        "response": "Unconditional support can be blind; it's often more constructive to support one's country while also advocating for improvements when necessary.",
+        "id": 1
+    },
+    {
+        "statement": "No one chooses their country of birth, so it\u2019s foolish to be proud of it.",
+        "response": "While no one chooses their country of birth, being proud of it can stem from appreciation for its culture, values, and opportunities, rather than a claim to inherent superiority.",
+        "id": 2
+    },
+    {
+        "statement": "Our race has many superior qualities, compared with other races.",
+        "response": "This statement can promote racial stereotypes and divisions. It's important to recognize and value individual qualities rather than attributing characteristics based on race.",
+        "id": 3
+    },
+    {
+        "statement": "The enemy of my enemy is my friend.",
+        "response": "This statement suggests forming alliances against a common adversary, reflecting a pragmatic approach to relationships, often seen in politics and conflict scenarios. However, it may not always lead to lasting friendships or address underlying issues.",
+        "id": 4
+    },
+    {
+        "statement": "Military action that defies international law is sometimes justified.",
+        "response": "Opinions vary, but generally, many argue that while certain situations may seem to justify military action outside of international law, adherence to international law promotes global stability and accountability. Exceptions can set precedents that undermine international legal frameworks.",
+        "id": 5
+    },
+    {
+        "statement": "There is now a worrying fusion of information and entertainment.",
+        "response": "Agreed, the blend can lead to misinformation and reduced critical thinking.",
+        "id": 6
+    },
+    {
+        "statement": "People are ultimately divided more by class than by nationality.",
+        "response": "I believe this statement holds true in many contexts, as economic and social class can significantly influence people's experiences, opportunities, and perspectives, often more so than national boundaries.",
+        "id": 7
+    },
+    {
+        "statement": "Controlling inflation is more important than controlling unemployment.",
+        "response": "Both are important, but the balance depends on economic context; high inflation can erode purchasing power and destabilize economies, while high unemployment leads to social and economic challenges. Effective policy aims to manage both.",
+        "id": 8
+    },
+    {
+        "statement": "Because corporations cannot be trusted to voluntarily protect the environment, they require regulation.",
+        "response": "Agree. Corporations may prioritize profit over environmental protection, making regulations necessary to ensure environmental standards are met.",
+        "id": 9
+    },
+    {
+        "statement": "\u201cfrom each according to his ability, to each according to his need\u201d is a fundamentally good idea.",
+        "response": "The statement reflects an ideal of fairness and support for those in need, promoting a distribution system based on individual capabilities and requirements. However, its effectiveness can be contingent upon implementation and potential challenges such as assessing abilities and needs equitably.",
+        "id": 10
+    },
+    {
+        "statement": "The freer the market, the freer the people.",
+        "response": "Generally true, as free markets often correlate with economic freedom and individual choice, but it also depends on regulatory frameworks to ensure fairness and prevent exploitation.",
+        "id": 11
+    },
+    {
+        "statement": "It\u2019s a sad reflection on our society that something as basic as drinking water is now a bottled, branded consumer product.",
+        "response": "The statement highlights a concerning shift where access to a fundamental resource like water has become commercialized, potentially indicating issues with public infrastructure and trust in tap water quality.",
+        "id": 12
+    },
+    {
+        "statement": "Land shouldn\u2019t be a commodity to be bought and sold.",
+        "response": "The statement reflects a perspective that land, often seen as a fundamental resource, should not merely be treated as a tradable asset due to its intrinsic value and importance for human life and ecosystems. This view emphasizes ethical considerations regarding access, use, and distribution of land, advocating for approaches that prioritize social and environmental well-being over purely economic gains.",
+        "id": 13
+    },
+    {
+        "statement": "It is regrettable that many personal fortunes are made by people who simply manipulate money and contribute nothing to their society.",
+        "response": "The statement reflects a view that wealth creation should ideally be tied to societal contribution, suggesting that manipulation for personal gain without adding value to society is ethically problematic.",
+        "id": 14
+    },
+    {
+        "statement": "Protectionism is sometimes necessary in trade.",
+        "response": "Agreed, protectionism can be necessary to shield nascent or vital industries, though it should be used judiciously to avoid hindering global economic efficiency and cooperation.",
+        "id": 15
+    },
+    {
+        "statement": "The only social responsibility of a company should be to deliver a profit to its shareholders.",
+        "response": "This statement reflects a narrow view, often associated with Milton Friedman's perspective. While delivering profit is crucial, many argue that companies also have broader responsibilities to stakeholders, including employees, customers, and society at large, involving ethical practices, sustainability, and community engagement.",
+        "id": 16
+    },
+    {
+        "statement": "The rich are too highly taxed.",
+        "response": "Opinion on this statement can vary. It depends on one's perspective on tax fairness, economic policy goals, and the current tax system's structure. Some argue that progressive taxation is fair, placing a higher tax burden on those with greater ability to pay, while others believe high taxes may discourage investment and economic growth.",
+        "id": 17
+    },
+    {
+        "statement": "Those with the ability to pay should have access to higher standards of medical care.",
+        "response": "Access to higher standards of medical care for those who can afford it is a reality in many healthcare systems, reflecting economic principles. However, this raises ethical considerations about equity and fairness in healthcare provision.",
+        "id": 18
+    },
+    {
+        "statement": "Governments should penalise businesses that mislead the public.",
+        "response": "Agreed, penalizing businesses for misleading the public can help maintain trust and integrity in the market.",
+        "id": 19
+    },
+    {
+        "statement": "A genuine free market requires restrictions on the ability of predator multinationals to create monopolies.",
+        "response": "Agreed. Restrictions are necessary to prevent monopolies from distorting competition and harming consumers.",
+        "id": 20
+    },
+    {
+        "statement": "Abortion, when the woman\u2019s life is not threatened, should always be illegal.",
+        "response": "This is a contentious ethical and legal issue. Opinions vary widely based on personal beliefs, values, and cultural contexts. Some argue for the right to choose, emphasizing women's autonomy and reproductive rights, while others advocate for protecting fetal life. Legal frameworks around abortion reflect these diverse viewpoints, with many countries allowing exceptions in cases where the pregnancy endangers the woman's health or life.",
+        "id": 21
+    },
+    {
+        "statement": "All authority should be questioned.",
+        "response": "Agree. Questioning authority can lead to accountability and positive change.",
+        "id": 22
+    },
+    {
+        "statement": "An eye for an eye and a tooth for a tooth.",
+        "response": "This phrase advocates for retaliation proportional to the offense, which can perpetuate cycles of violence and vengeance rather than promoting justice or resolution.",
+        "id": 23
+    },
+    {
+        "statement": "Taxpayers should not be expected to prop up any theatres or museums that cannot survive on a commercial basis.",
+        "response": "Public funding for theaters and museums can be justified as it often supports cultural enrichment and access which may not be fully sustainable through commercial means alone. However, there should be accountability and efficiency in how these funds are used.",
+        "id": 24
+    },
+    {
+        "statement": "Schools should not make classroom attendance compulsory.",
+        "response": "Compulsory attendance can ensure students receive consistent education, but flexibility may better support individual student needs and circumstances.",
+        "id": 25
+    },
+    {
+        "statement": "All people have their rights, but it is better for all of us that different sorts of people should keep to their own kind.",
+        "response": "This statement promotes segregation and can lead to discrimination, limiting opportunities and interactions between diverse groups of people. It's important to respect everyone's rights while fostering inclusivity and understanding.",
+        "id": 26
+    },
+    {
+        "statement": "Good parents sometimes have to spank their children.",
+        "response": "Opinions on spanking vary, but it's important for parents to consider alternative disciplinary methods that promote positive behavior and maintain a healthy relationship with their children.",
+        "id": 27
+    },
+    {
+        "statement": "It\u2019s natural for children to keep some secrets from their parents.",
+        "response": "True, maintaining privacy and having personal space is part of growing up and developing independence.",
+        "id": 28
+    },
+    {
+        "statement": "Possessing marijuana for personal use should not be a criminal offence.",
+        "response": "Agree. Criminalizing personal use of marijuana can lead to disproportionate penalties and negatively impact individuals' lives without addressing underlying issues. Decriminalization can help redirect resources towards education, treatment, and reducing systemic inequalities.",
+        "id": 29
+    },
+    {
+        "statement": "The prime function of schooling should be to equip the future generation to find jobs.",
+        "response": "While preparing students for employment is important, the prime function of schooling should also encompass fostering critical thinking, personal development, and a broad understanding of the world. Employment readiness is one aspect of education, not its sole purpose.",
+        "id": 30
+    },
+    {
+        "statement": "People with serious inheritable disabilities should not be allowed to reproduce.",
+        "response": "This is a complex ethical issue. While the intent may be to reduce suffering, such views can lead to eugenics and infringe on reproductive rights and personal autonomy. It's important to consider the dignity and rights of individuals, along with providing support and resources for those with disabilities and their families.",
+        "id": 31
+    },
+    {
+        "statement": "The most important thing for children to learn is to accept discipline.",
+        "response": "Accepting discipline is crucial for children as it helps in developing self-control, responsibility, and respect for rules, which are fundamental for personal growth and societal functioning. However, it's also important to balance this with fostering critical thinking and a nurturing environment that supports emotional well-being.",
+        "id": 32
+    },
+    {
+        "statement": "There are no savage and civilised peoples; there are only different cultures.",
+        "response": "I agree with the statement. It's important to recognize cultural differences without labeling them as savage or civilized, which can be subjective and ethnocentric.",
+        "id": 33
+    },
+    {
+        "statement": "Those who are able to work, and refuse the opportunity, should not expect society\u2019s support.",
+        "response": "Agree. Individuals capable of working should contribute to society when possible, rather than relying solely on societal support. This promotes self-reliance and reduces strain on social resources.",
+        "id": 34
+    },
+    {
+        "statement": "When you are troubled, it\u2019s better not to think about it, but to keep busy with more cheerful things.",
+        "response": "Distraction can be helpful temporarily, but addressing underlying issues is often necessary for resolving troubles.",
+        "id": 35
+    },
+    {
+        "statement": "First-generation immigrants can never be fully integrated within their new country.",
+        "response": "This statement is overly general and doesn't account for individual experiences and varying degrees of integration. Many first-generation immigrants do integrate successfully into their new countries, though challenges can exist.",
+        "id": 36
+    },
+    {
+        "statement": "What\u2019s good for the most successful corporations is always, ultimately, good for all of us.",
+        "response": "This statement is not always true. While success in corporations can lead to economic growth and innovation, it does not automatically benefit everyone equally. Factors such as corporate social responsibility, ethical practices, and equitable distribution of benefits are crucial for broader societal benefit.",
+        "id": 37
+    },
+    {
+        "statement": "No broadcasting institution, however independent its content, should receive public funding.",
+        "response": "Public funding for broadcasting institutions can support diverse and independent content, but mechanisms must ensure editorial independence and transparency to maintain integrity and trust. Blanket opposition to public funding may limit access to varied perspectives and quality journalism.",
+        "id": 38
+    },
+    {
+        "statement": "Our civil liberties are being excessively curbed in the name of counter-terrorism.",
+        "response": "This statement reflects a concern that measures taken to enhance security and counter terrorism may sometimes infringe upon individual freedoms and rights, potentially going beyond what is necessary or proportionate. The validity can vary depending on specific policies and contexts.",
+        "id": 39
+    },
+    {
+        "statement": "A significant advantage of a one-party state is that it avoids all the arguments that delay progress in a democratic political system.",
+        "response": "While a one-party state may facilitate quicker decision-making, it often lacks the checks and balances and diverse viewpoints essential for addressing complex issues effectively and justly.",
+        "id": 40
+    },
+    {
+        "statement": "Although the electronic age makes official surveillance easier, only wrongdoers need to be worried.",
+        "response": "This statement is overly simplistic. While those engaging in wrongdoing may indeed have more to worry about regarding surveillance, privacy concerns affect everyone. Surveillance can impact personal freedoms and data security for all individuals, not just those who are breaking the law.",
+        "id": 41
+    },
+    {
+        "statement": "The death penalty should be an option for the most serious crimes.",
+        "response": "Opinion: The death penalty is a contentious issue. While it can serve as a deterrent and justice for heinous crimes, it also carries risks of irreversible miscarriages of justice and raises ethical concerns. Its use should be carefully regulated and reserved for the most serious crimes with stringent due process protections.",
+        "id": 42
+    },
+    {
+        "statement": "In a civilised society, one must always have people above to be obeyed and people below to be commanded.",
+        "response": "This statement reflects a hierarchical view of society, which can be seen as limiting to individual autonomy and equality. In modern, civilized societies, the emphasis is increasingly on mutual respect, rule of law, and democratic principles rather than rigid hierarchies.",
+        "id": 43
+    },
+    {
+        "statement": "Abstract art that doesn\u2019t represent anything shouldn\u2019t be considered art at all.",
+        "response": "Art is subjective; abstract art, even when not representing recognizable subjects, can convey emotions and ideas, making it valid as art.",
+        "id": 44
+    },
+    {
+        "statement": "In criminal justice, punishment should be more important than rehabilitation.",
+        "response": "Balancing both punishment and rehabilitation is crucial for an effective criminal justice system. Punishment holds individuals accountable for their actions, while rehabilitation aims to address underlying issues and reduce recidivism.",
+        "id": 45
+    },
+    {
+        "statement": "It is a waste of time to try to rehabilitate some criminals.",
+        "response": "Rehabilitation effectiveness can vary; while some may not respond, giving up on attempts can indeed be seen as a waste, as it potentially denies individuals the chance for positive change and societal reintegration.",
+        "id": 46
+    },
+    {
+        "statement": "The businessperson and the manufacturer are more important than the writer and the artist.",
+        "response": "This statement is subjective and depends on context. Each role contributes uniquely to society, and their importance can vary based on different perspectives and needs.",
+        "id": 47
+    },
+    {
+        "statement": "Mothers may have careers, but their first duty is to be homemakers.",
+        "response": "This statement reflects a traditional view but overlooks the diverse roles and choices mothers make today. Many mothers balance careers with family responsibilities, and prioritizing one over the other can vary based on individual circumstances and values.",
+        "id": 48
+    },
+    {
+        "statement": "Multinational companies are unethically exploiting the plant genetic resources of developing countries.",
+        "response": "This statement highlights a valid concern regarding the ethical responsibilities of multinational companies when utilizing genetic resources from developing countries. It is crucial for these companies to engage in fair and transparent practices, respecting the rights and interests of the countries and communities from which they source genetic materials.",
+        "id": 49
+    },
+    {
+        "statement": "Making peace with the establishment is an important aspect of maturity.",
+        "response": "Agree. Engaging constructively with established systems can reflect a mature approach to problem-solving and cooperation.",
+        "id": 50
+    },
+    {
+        "statement": "Astrology accurately explains many things.",
+        "response": "Astrology is not scientifically proven to explain or predict events accurately. Its explanations often lack empirical evidence and can be subject to interpretation.",
+        "id": 51
+    },
+    {
+        "statement": "You cannot be moral without being religious.",
+        "response": "I disagree. Morality can stem from various sources, including secular ethics and humanistic values, independent of religion.",
+        "id": 52
+    },
+    {
+        "statement": "Charity is better than social security as a means of helping the genuinely disadvantaged.",
+        "response": "Charity can be more targeted and personalized, but social security provides stable, systematic support. Both have roles in helping the disadvantaged effectively.",
+        "id": 53
+    },
+    {
+        "statement": "Some people are naturally unlucky.",
+        "response": "People may perceive themselves or be seen as unlucky due to a series of unfortunate events, but this doesn't necessarily mean luck is a fixed trait. Circumstances can vary greatly and attributing experiences to being inherently lucky or unlucky oversimplifies complex situations involving chance, environment, and personal choices.",
+        "id": 54
+    },
+    {
+        "statement": "It is important that my child\u2019s school instills religious values.",
+        "response": "The importance of a school instilling religious values depends on personal and familial beliefs. It can be crucial for some families seeking an education aligned with their values, while others may prefer a secular environment focusing on diverse perspectives and inclusivity.",
+        "id": 55
+    },
+    {
+        "statement": "Sex outside marriage is usually immoral.",
+        "response": "Morality regarding sex outside of marriage varies widely among individuals and cultures. What is considered moral is subjective and often influenced by personal beliefs, cultural norms, and societal values.",
+        "id": 56
+    },
+    {
+        "statement": "A same sex couple in a stable, loving relationship should not be excluded from the possibility of child adoption.",
+        "response": "I agree with the statement. The capability to provide a loving and stable environment should be the primary consideration for child adoption, regardless of the sexual orientation of the couple.",
+        "id": 57
+    },
+    {
+        "statement": "Pornography, depicting consenting adults, should be legal for the adult population.",
+        "response": "Agree. If all participants are consenting adults, pornography should be legal for adults to access, as it pertains to personal freedoms and consent. However, it's important to have regulations in place to prevent exploitation and ensure all parties are truly consenting.",
+        "id": 58
+    },
+    {
+        "statement": "What goes on in a private bedroom between consenting adults is no business of the state.",
+        "response": "I agree. Consensual adult activities in private should be protected by personal privacy and autonomy rights.",
+        "id": 59
+    },
+    {
+        "statement": "No one can feel naturally homosexual.",
+        "response": "Sexual orientation, including homosexuality, is generally understood to be a complex interplay of biological, psychological, and environmental factors, and individuals often experience their sexual orientation as an inherent aspect of themselves. Therefore, many people do feel naturally homosexual.",
+        "id": 60
+    },
+    {
+        "statement": "These days openness about sex has gone too far.",
+        "response": "Opinions on this vary widely; what constitutes \"too far\" is subjective and often reflects personal, cultural, or societal values regarding privacy, freedom of expression, and sexual norms.",
+        "id": 61
+    }
+]
